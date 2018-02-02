@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d269e7bf-2034-4f81-9132-c3799486643d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="budget2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/budget2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="495" column="30" lean-forward="false" selection-start-line="495" selection-start-column="30" selection-end-line="495" selection-end-column="30" />
+              <folding>
+                <element signature="e#54#64#0" expanded="true" />
+                <element signature="e#436#541#0" expanded="false" />
+                <element signature="e#571#1132#0" expanded="false" />
+                <element signature="e#1161#1727#0" expanded="false" />
+                <element signature="e#1755#2476#0" expanded="false" />
+                <element signature="e#2503#2679#0" expanded="false" />
+                <element signature="e#2708#2905#0" expanded="false" />
+                <element signature="e#2957#3394#0" expanded="false" />
+                <element signature="e#3430#3935#0" expanded="false" />
+                <element signature="e#3967#5078#0" expanded="false" />
+                <element signature="e#5136#8833#0" expanded="false" />
+                <element signature="e#8897#11230#0" expanded="false" />
+                <element signature="e#11257#11883#0" expanded="false" />
+                <element signature="e#11914#13368#0" expanded="false" />
+                <element signature="e#13393#13699#0" expanded="false" />
+                <element signature="e#13743#13938#0" expanded="false" />
+                <element signature="e#14003#14309#0" expanded="false" />
+                <element signature="e#14373#18249#0" expanded="false" />
+                <element signature="e#18287#19621#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="budget_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/budget_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2574">
+              <caret line="290" column="165" lean-forward="false" selection-start-line="280" selection-start-column="20" selection-end-line="290" selection-end-column="165" />
+              <folding>
+                <element signature="e#413#480#0" expanded="false" />
+                <element signature="e#509#1121#0" expanded="false" />
+                <element signature="e#1149#1635#0" expanded="false" />
+                <element signature="e#1662#2309#0" expanded="false" />
+                <element signature="e#2337#2491#0" expanded="false" />
+                <element signature="e#2520#5618#0" expanded="false" />
+                <element signature="e#5644#6107#0" expanded="false" />
+                <element signature="e#6142#6893#0" expanded="false" />
+                <element signature="e#6926#7224#0" expanded="false" />
+                <element signature="e#7270#7395#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>read</find>
+      <find>&amp;</find>
+      <find>get_one</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/budget_script.py" />
+        <option value="$PROJECT_DIR$/budget2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Budget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Budget" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/budget_script.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="SearchEverywhereHistoryKey" value="color&#9;ACTION&#9;ShowColorPicker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shelby\Desktop\Budget" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.budget2">
+    <configuration name="budget2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Shelby\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Budget" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/budget2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="budget_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Budget" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/budget_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.budget2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.budget_script" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.budget2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.budget_script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d269e7bf-2034-4f81-9132-c3799486643d" name="Default" comment="" />
+      <created>1517277161643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517277161643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1652004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14113785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/budget_script.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/budget2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+            <element signature="e#436#541#0" expanded="false" />
+            <element signature="e#571#1132#0" expanded="false" />
+            <element signature="e#1161#1727#0" expanded="false" />
+            <element signature="e#1755#2476#0" expanded="false" />
+            <element signature="e#2503#2679#0" expanded="false" />
+            <element signature="e#2708#2905#0" expanded="false" />
+            <element signature="e#2957#3394#0" expanded="false" />
+            <element signature="e#3430#3935#0" expanded="false" />
+            <element signature="e#3967#5078#0" expanded="false" />
+            <element signature="e#5136#8833#0" expanded="false" />
+            <element signature="e#8897#11230#0" expanded="false" />
+            <element signature="e#11257#11883#0" expanded="false" />
+            <element signature="e#11914#13368#0" expanded="false" />
+            <element signature="e#13393#13699#0" expanded="false" />
+            <element signature="e#13743#13938#0" expanded="false" />
+            <element signature="e#14003#14309#0" expanded="false" />
+            <element signature="e#14373#18249#0" expanded="false" />
+            <element signature="e#18287#19621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6380">
+          <caret line="290" column="165" lean-forward="true" selection-start-line="280" selection-start-column="20" selection-end-line="290" selection-end-column="165" />
+          <folding>
+            <element signature="e#413#480#0" expanded="false" />
+            <element signature="e#509#1121#0" expanded="false" />
+            <element signature="e#1149#1635#0" expanded="false" />
+            <element signature="e#1662#2309#0" expanded="false" />
+            <element signature="e#2337#2491#0" expanded="false" />
+            <element signature="e#2520#5618#0" expanded="false" />
+            <element signature="e#5644#6107#0" expanded="false" />
+            <element signature="e#6142#6893#0" expanded="false" />
+            <element signature="e#6926#7224#0" expanded="false" />
+            <element signature="e#7270#7395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+            <element signature="e#436#541#0" expanded="false" />
+            <element signature="e#571#1132#0" expanded="false" />
+            <element signature="e#1161#1727#0" expanded="false" />
+            <element signature="e#1755#2476#0" expanded="false" />
+            <element signature="e#2503#2679#0" expanded="false" />
+            <element signature="e#2708#2905#0" expanded="false" />
+            <element signature="e#2957#3394#0" expanded="false" />
+            <element signature="e#3430#3935#0" expanded="false" />
+            <element signature="e#3967#5078#0" expanded="false" />
+            <element signature="e#5136#8833#0" expanded="false" />
+            <element signature="e#8897#11230#0" expanded="false" />
+            <element signature="e#11257#11883#0" expanded="false" />
+            <element signature="e#11914#13368#0" expanded="false" />
+            <element signature="e#13393#13699#0" expanded="false" />
+            <element signature="e#13743#13938#0" expanded="false" />
+            <element signature="e#14003#14309#0" expanded="false" />
+            <element signature="e#14373#18249#0" expanded="false" />
+            <element signature="e#18287#19621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="217" column="71" lean-forward="true" selection-start-line="216" selection-start-column="8" selection-end-line="217" selection-end-column="71" />
+          <folding>
+            <element signature="e#413#480#0" expanded="false" />
+            <element signature="e#509#1121#0" expanded="false" />
+            <element signature="e#1149#1635#0" expanded="false" />
+            <element signature="e#1662#2309#0" expanded="false" />
+            <element signature="e#2337#2491#0" expanded="false" />
+            <element signature="e#2520#5618#0" expanded="false" />
+            <element signature="e#5644#6107#0" expanded="false" />
+            <element signature="e#6142#6893#0" expanded="false" />
+            <element signature="e#6926#7224#0" expanded="false" />
+            <element signature="e#7270#7395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+            <element signature="e#436#541#0" expanded="false" />
+            <element signature="e#571#1132#0" expanded="false" />
+            <element signature="e#1161#1727#0" expanded="false" />
+            <element signature="e#1755#2476#0" expanded="false" />
+            <element signature="e#2503#2679#0" expanded="false" />
+            <element signature="e#2708#2905#0" expanded="false" />
+            <element signature="e#2957#3394#0" expanded="false" />
+            <element signature="e#3430#3935#0" expanded="false" />
+            <element signature="e#3967#5078#0" expanded="false" />
+            <element signature="e#5136#8833#0" expanded="false" />
+            <element signature="e#8897#11230#0" expanded="false" />
+            <element signature="e#11257#11883#0" expanded="false" />
+            <element signature="e#11914#13368#0" expanded="false" />
+            <element signature="e#13393#13699#0" expanded="false" />
+            <element signature="e#13743#13938#0" expanded="false" />
+            <element signature="e#14003#14309#0" expanded="false" />
+            <element signature="e#14373#18249#0" expanded="false" />
+            <element signature="e#18287#19621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="161" column="29" lean-forward="false" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
+          <folding>
+            <element signature="e#413#480#0" expanded="false" />
+            <element signature="e#509#1121#0" expanded="false" />
+            <element signature="e#1149#1635#0" expanded="false" />
+            <element signature="e#1662#2309#0" expanded="false" />
+            <element signature="e#2337#2491#0" expanded="false" />
+            <element signature="e#2520#5618#0" expanded="false" />
+            <element signature="e#5644#6107#0" expanded="false" />
+            <element signature="e#6142#6893#0" expanded="false" />
+            <element signature="e#6926#7224#0" expanded="false" />
+            <element signature="e#7270#7395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+            <element signature="e#436#541#0" expanded="false" />
+            <element signature="e#571#1132#0" expanded="false" />
+            <element signature="e#1161#1727#0" expanded="false" />
+            <element signature="e#1755#2476#0" expanded="false" />
+            <element signature="e#2503#2679#0" expanded="false" />
+            <element signature="e#2708#2905#0" expanded="false" />
+            <element signature="e#2957#3394#0" expanded="false" />
+            <element signature="e#3430#3935#0" expanded="false" />
+            <element signature="e#3967#5078#0" expanded="false" />
+            <element signature="e#5136#8833#0" expanded="false" />
+            <element signature="e#8897#11230#0" expanded="false" />
+            <element signature="e#11257#11883#0" expanded="false" />
+            <element signature="e#11914#13368#0" expanded="false" />
+            <element signature="e#13393#13699#0" expanded="false" />
+            <element signature="e#13743#13938#0" expanded="false" />
+            <element signature="e#14003#14309#0" expanded="false" />
+            <element signature="e#14373#18249#0" expanded="false" />
+            <element signature="e#18287#19621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+          <folding>
+            <element signature="e#413#480#0" expanded="false" />
+            <element signature="e#509#1121#0" expanded="false" />
+            <element signature="e#1149#1635#0" expanded="false" />
+            <element signature="e#1662#2309#0" expanded="false" />
+            <element signature="e#2337#2491#0" expanded="false" />
+            <element signature="e#2520#5618#0" expanded="false" />
+            <element signature="e#5644#6107#0" expanded="false" />
+            <element signature="e#6142#6893#0" expanded="false" />
+            <element signature="e#6926#7224#0" expanded="false" />
+            <element signature="e#7270#7395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="290" column="165" lean-forward="false" selection-start-line="280" selection-start-column="20" selection-end-line="290" selection-end-column="165" />
+          <folding>
+            <element signature="e#413#480#0" expanded="false" />
+            <element signature="e#509#1121#0" expanded="false" />
+            <element signature="e#1149#1635#0" expanded="false" />
+            <element signature="e#1662#2309#0" expanded="false" />
+            <element signature="e#2337#2491#0" expanded="false" />
+            <element signature="e#2520#5618#0" expanded="false" />
+            <element signature="e#5644#6107#0" expanded="false" />
+            <element signature="e#6142#6893#0" expanded="false" />
+            <element signature="e#6926#7224#0" expanded="false" />
+            <element signature="e#7270#7395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="495" column="30" lean-forward="false" selection-start-line="495" selection-start-column="30" selection-end-line="495" selection-end-column="30" />
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+            <element signature="e#436#541#0" expanded="false" />
+            <element signature="e#571#1132#0" expanded="false" />
+            <element signature="e#1161#1727#0" expanded="false" />
+            <element signature="e#1755#2476#0" expanded="false" />
+            <element signature="e#2503#2679#0" expanded="false" />
+            <element signature="e#2708#2905#0" expanded="false" />
+            <element signature="e#2957#3394#0" expanded="false" />
+            <element signature="e#3430#3935#0" expanded="false" />
+            <element signature="e#3967#5078#0" expanded="false" />
+            <element signature="e#5136#8833#0" expanded="false" />
+            <element signature="e#8897#11230#0" expanded="false" />
+            <element signature="e#11257#11883#0" expanded="false" />
+            <element signature="e#11914#13368#0" expanded="false" />
+            <element signature="e#13393#13699#0" expanded="false" />
+            <element signature="e#13743#13938#0" expanded="false" />
+            <element signature="e#14003#14309#0" expanded="false" />
+            <element signature="e#14373#18249#0" expanded="false" />
+            <element signature="e#18287#19621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
