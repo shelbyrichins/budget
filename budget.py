@@ -214,14 +214,19 @@ def get_values(xtable, update=False, row_id=None):
         if update and new_row['category'] == "":
             new_row['category'] = get_one(xtable, "category", row_id)
         # proportion
-        new_row['proportion'] = float(input("\nproportion: "))
-        if update and new_row['category'] == "":
-            new_row['category'] = get_one(xtable, "category", row_id)
+        new_prop = input("\nproportion: ")
+        if update and new_prop == "":
+            new_row['proportion'] = get_one(xtable, "category", row_id)
+        elif update:
+            new_row['proportion'] = float(new_prop)
         # funds
         if update:
-            new_row['funds'] = float(input("\nfunds (manual update not recommended): "))
-            if new_row['funds'] == "":
+            new_funds = input("\nfunds (manual update not recommended): ")
+
+            if new_funds == "":
                 new_row['funds'] = get_one(xtable, "funds", row_id)
+            else:
+                new_row['funds'] = float(new_funds)
         else:
             # funds added to budget categories when income added
             new_row['funds'] = 0
@@ -497,7 +502,7 @@ def new_payout(sep=dash_line):
     # repay expenses made from individual accounts
     # Calculate amount to payout
     payout_amounts = '''SELECT 	e.account
-		                        ,(SUM(e.amount) - COALESCE(SUM(p.amount), 0)) AS to_payout
+                                ,(SUM(e.amount) - COALESCE(SUM(p.amount), 0)) AS to_payout
                         FROM 	expense AS e
                         LEFT JOIN payout AS p
 		                    ON e.account = p.account 	
